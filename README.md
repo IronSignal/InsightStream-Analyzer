@@ -1,2 +1,2 @@
-# PacketPatrol
-A network analysis simulator that parses PCAP files, detects suspicious activity like port scans or exfiltration attempts, and simulates SOC-level incident responses.
+# InsightStream-Analyzer
+AI platform analyzing customer feedback and internal reports with sentiment scoring, topic clustering, actionable insight dashboards, and automated email alerts for urgent issues.
